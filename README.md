@@ -4,7 +4,7 @@ Welcome to the Web Calculator, a simple calculator programmed by Sachin Kumar us
 
 ## Preview
 
-<img width="508" alts="Screenshot 2025-02-15 122842" src="https://github.com/user-attachments/assets/aadfb86b-70c9-479a-abeb-942690713fed">
+<img width="508" height="400" alt="Screenshot 2025-02-15 122842" src="https://github.com/user-attachments/assets/aadfb86b-70c9-479a-abeb-942690713fed">
 
 
 
