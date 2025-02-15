@@ -21,7 +21,7 @@ This web calculator provides basic arithmetic operations such as addition, subtr
 
 ## Deployment
 
-https://github.com/AnandKushwaha814/Web-calculator/deployments/github-pages
+https://anandkushwaha814.github.io/Web-calculator/
 
 ## Usage
 
